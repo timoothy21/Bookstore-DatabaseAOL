@@ -1,0 +1,125 @@
+.btn.btn-profile{
+    background-color: black;
+    color: white;
+    margin: 0px 5px 0px 5px;
+}
+
+.form-control#pengeluaran{
+    width: 35%;
+}
+
+/* login.php */
+.wrapper_login {
+    height: 100vh !important;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    padding: 20px;
+}
+
+/* reset-password.php */
+.wrapper_reset {
+    height: 100vh !important;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    padding: 20px;
+}
+
+/* transacntion.php */
+.wrapper_transaction {
+    /* height: 100vh !important; */
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    padding: 20px;
+}
+
+.wrapper_transaction .menu_header{
+    display: flex;
+    justify-content: end;
+}
+
+/* register.php */
+.wrapper_register {
+    height: 100vh !important;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    padding: 20px;
+}
+
+
+/* index.php */
+.wrapper_index{
+    width: auto;
+    margin: 20px;
+}
+
+.wrapper_index .menu_header{
+    display: flex;
+    justify-content: end;
+}
+
+.menu_header a#btn_menu, .menu_header a#btn_search, .menu_header a#btn_transaction{
+    margin: 0px 5px 0px 0px;
+}
+
+/* search.php */
+.wrapper_search{
+    width: auto;
+    margin: 20px;
+}
+
+.wrapper_search .menu_header{
+    display: flex;
+    justify-content: end;
+}
+
+.form-group#penerbit #genre{
+    display: inline-block;
+}
+
+/* create.php */
+.wrapper_create{
+    /* height: 100vh !important; */
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 550px;
+    margin: 0px auto;
+    padding: 20px;
+}
+
+/* update.php */
+.wrapper_update{
+    /* height: 100vh !important; */
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 550px;
+    margin: 0px auto;
+    padding: 20px;
+}
+
+/* read.php */
+.wrapper_read{
+    /* height: 100vh !important; */
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 550px;
+    margin: 0px auto;
+    padding: 20px;
+}
